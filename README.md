@@ -1,3 +1,4 @@
+<br>
 <p align="center">
 <img style="width: 75%; margin-top: 80px; " src="https://imgur.com/kqFTnwH.png" alt="Sveltron">
 </p>
@@ -5,9 +6,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/made%20with-electron-blue" alt="electron">
 <img src="https://img.shields.io/badge/using-svelte-orange" alt="svelte">
-
 </p>
-<br>
+
 <h3>To get started clone this repository or click the "Use this template" button.</h3>
 
 ```
@@ -27,8 +27,6 @@ npm install
 ```
 npm run dev
 ```
-
-<img style="width: 50%; margin-bottom: 50px; " src="https://i.imgur.com/L46L6kv.png" alt="Sveltron">
 
 <h3>To package your app run: </h3>
 
