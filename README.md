@@ -1,12 +1,14 @@
-# svelte-electron
+<p align="center">
+<img style="width: 75%; margin-top: 80px; " src="https://imgur.com/kqFTnwH.png" alt="Sveltron">
+</p>
+<p align="center">A template that helps you use Svelte in Electron Apps.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/made%20with-electron-blue" alt="electron">
+<img src="https://img.shields.io/badge/using-svelte-orange" alt="svelte">
 
-<h2>A template that helps you use Svelte in Electron Apps.</h2>
-
-- Hot reload
-- Packaging
+</p>
 <br>
 <h3>To get started clone this repository or click the "Use this template" button.</h3>
-<br>
 
 ```
 git clone https://github.com/0xPiyush/svelte-electron <my-app-name>
