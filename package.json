@@ -10,7 +10,7 @@
     "package:linux": "electron-packager . --overwrite --asar=true --platform=linux --prune=true --out=release-builds",
     "package:mac": "electron-packager . --overwrite --asar=true --platform=darvin --prune=true --out=release-builds",
     "dev:web": "rollup -c -w",
-    "dev": "concurrently \"npm run dev:web\" \"electron .\"",
+    "dev": "concurrently \"npm run dev:web\"",
     "start:web": "sirv public --no-clear"
   },
   "devDependencies": {
