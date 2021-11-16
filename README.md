@@ -1,5 +1,5 @@
 <p align="center">
-<img style="width: 75%; margin-top: 20px; " src="https://imgur.com/kqFTnwH.png" alt="Sveltron">
+<img style="width: 75%; margin-top: 40px; " src="https://imgur.com/kqFTnwH.png" alt="Sveltron">
 </p>
 <p align="center">A template that helps you use Svelte in Electron Apps.</p>
 <p align="center">
