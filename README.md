@@ -28,6 +28,8 @@ npm install
 npm run dev
 ```
 
+<img style="width: 50%; margin-bottom: 50px; " src="https://i.imgur.com/L46L6kv.png" alt="Sveltron">
+
 <h3>To package your app run: </h3>
 
 ```
