@@ -11,7 +11,7 @@
 
 <br>
 
-## Quick Start
+## Quick Start ⛳
 <h3>To get started clone this repository or click the "Use this template" button.</h3>
 
 ```
@@ -51,5 +51,5 @@ All the frontend code is in <strong>./public</strong> and <strong>./src</strong>
 <p>The Electron entry point is in: <br>
 <strong>./electron/main.js</strong></p>
 
-## Screenshots
+## Screenshots 📸
 <img style="width: 50%; margin-bottom: 50px; " src="https://i.imgur.com/L46L6kv.png" alt="Sveltron">
