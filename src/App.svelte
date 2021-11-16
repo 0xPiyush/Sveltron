@@ -1,9 +1,6 @@
-<script>
-  export let framework;
-</script>
-
 <main>
-  <h1>Svelte {framework}!</h1>
+  <img src="../public/assets/Sveltron.png" alt="" class="logo" />
+  <h1>Build beautiful apps with Svelte and Electron.</h1>
   <p>
     Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn
     how to build Svelte apps.
@@ -18,11 +15,11 @@
     margin: 0 auto;
   }
 
-  h1 {
-    color: #ff3e00;
-    text-transform: uppercase;
-    font-size: 4em;
-    font-weight: 100;
+  .logo {
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 20px;
   }
 
   @media (min-width: 640px) {
