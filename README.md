@@ -15,7 +15,7 @@
 <h3>To get started clone this repository or click the "Use this template" button.</h3>
 
 ```
-git clone https://github.com/0xPiyush/sveltron <my-app-name>
+git clone https://github.com/0xPiyush/Sveltron.git <my-app-name>
 
 cd <my-app-name>
 ```
